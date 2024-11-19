@@ -26,6 +26,6 @@ const myfun = function() {
     console.log('455');
     return 1
 }
-console.log(typeof myfun()) //function-object
+console.log(typeof myfun) //type: function = function-object
 console.log(typeof x)
 console.log(typeof y)
